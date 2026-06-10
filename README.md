@@ -8,5 +8,6 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 <!---LeetCode Topics End-->
