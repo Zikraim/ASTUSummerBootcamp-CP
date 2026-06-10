@@ -17,5 +17,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3110-score-of-a-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 <!---LeetCode Topics End-->
