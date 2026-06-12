@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -40,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
