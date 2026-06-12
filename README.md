@@ -22,6 +22,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -29,4 +30,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
