@@ -10,6 +10,7 @@
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3895-count-digit-appearances/) | Medium |
 ## Math
@@ -41,6 +42,7 @@
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,8 +53,13 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
