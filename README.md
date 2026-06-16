@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
@@ -56,6 +59,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -65,5 +69,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
