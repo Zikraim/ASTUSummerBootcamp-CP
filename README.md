@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0463-island-perimeter](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
@@ -55,6 +56,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 ## Binary Search
@@ -90,4 +92,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 <!---LeetCode Topics End-->
