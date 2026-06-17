@@ -1,15 +1,22 @@
 from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        map= defaultdict(list)
+        my_dict = defaultdict(dict)
         for i in strs:
-            count =[0]*26
-            for j in i:
-                count[ord(j)-ord('a')] +=1
+            key=''.join(sorted(i))
+            if key not in my_dict:
+                my_dict[key]=[]
+            my_dict[key].append(i)
+        return list(my_dict.values())
 
-            key =tuple(count) 
-            map[key].append(i)
-        return list(map.values())
+
+
+
+
+
+
+
+
 
         
 
