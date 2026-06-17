@@ -14,6 +14,7 @@
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3895-count-digit-appearances/) | Medium |
@@ -45,6 +46,7 @@
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +54,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
