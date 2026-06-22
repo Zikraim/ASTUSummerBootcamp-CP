@@ -18,6 +18,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
@@ -27,6 +28,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3895-count-digit-appearances/) | Medium |
@@ -62,6 +64,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
@@ -96,6 +99,7 @@
 | ------- | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +127,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
