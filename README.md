@@ -14,6 +14,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
