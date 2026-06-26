@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0463-island-perimeter](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
@@ -61,6 +62,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0344-reverse-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -100,12 +102,14 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -115,6 +119,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
