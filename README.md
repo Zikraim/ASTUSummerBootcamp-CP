@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0463-island-perimeter](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -91,6 +93,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
