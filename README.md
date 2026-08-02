@@ -48,6 +48,7 @@
 | [0076-minimum-window-substring](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0076-minimum-window-substring/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0917-reverse-only-letters/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [3110-score-of-a-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Simulation
@@ -80,6 +82,7 @@
 | [0832-flipping-an-image](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0917-reverse-only-letters/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -160,8 +163,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0037-sudoku-solver/) | Hard |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 <!---LeetCode Topics End-->
