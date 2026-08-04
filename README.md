@@ -30,6 +30,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3206-alternating-groups-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3206-alternating-groups-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3895-count-digit-appearances/) | Medium |
 ## Math
@@ -164,6 +165,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [3206-alternating-groups-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3206-alternating-groups-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
