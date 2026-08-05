@@ -60,6 +60,7 @@
 | [0344-reverse-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0917-reverse-only-letters/) | Easy |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [3110-score-of-a-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3110-score-of-a-string/) | Easy |
@@ -162,6 +163,7 @@
 | [0076-minimum-window-substring](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0076-minimum-window-substring/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
