@@ -64,6 +64,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [3110-score-of-a-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3110-score-of-a-string/) | Easy |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -168,6 +169,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3206-alternating-groups-i/) | Easy |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
