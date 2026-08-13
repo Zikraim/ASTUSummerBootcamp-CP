@@ -28,6 +28,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -173,6 +174,7 @@
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [3206-alternating-groups-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3206-alternating-groups-i/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
@@ -203,4 +205,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Zikraim/ASTUSummerBootcamp-CP/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 <!---LeetCode Topics End-->
